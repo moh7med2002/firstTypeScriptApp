@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/firstTypeScriptApp/static/css/main.956d4b1d.css",
+    "main.js": "/firstTypeScriptApp/static/js/main.20d8f7ef.js",
+    "static/js/787.a35bd745.chunk.js": "/firstTypeScriptApp/static/js/787.a35bd745.chunk.js",
+    "static/media/header-bg-1.png": "/firstTypeScriptApp/static/media/header-bg-1.41939d15723735458a5e.png",
+    "static/media/header-bg-2.png": "/firstTypeScriptApp/static/media/header-bg-2.5f48458c40c1d433af19.png",
+    "static/media/header-bg-3.png": "/firstTypeScriptApp/static/media/header-bg-3.5609ea4bacebe7076456.png",
+    "static/media/home-slide-3.jpg": "/firstTypeScriptApp/static/media/home-slide-3.533e3730159b3a372ea8.jpg",
+    "static/media/home-slide-2.jpg": "/firstTypeScriptApp/static/media/home-slide-2.22d4149f3da637439417.jpg",
+    "static/media/img-2.jpg": "/firstTypeScriptApp/static/media/img-2.78a3d3800aad33cfac79.jpg",
+    "static/media/img-4.jpg": "/firstTypeScriptApp/static/media/img-4.c30838d724aa3e321dc0.jpg",
+    "static/media/home-slide-1.jpg": "/firstTypeScriptApp/static/media/home-slide-1.170a1e34c4dce66aa560.jpg",
+    "static/media/img-9.jpg": "/firstTypeScriptApp/static/media/img-9.701db7520c63df32b7a8.jpg",
+    "static/media/img-7.jpg": "/firstTypeScriptApp/static/media/img-7.6e44b2b4e8751a01ae74.jpg",
+    "static/media/img-12.jpg": "/firstTypeScriptApp/static/media/img-12.c57c0ea033678d3204e7.jpg",
+    "static/media/img-11.jpg": "/firstTypeScriptApp/static/media/img-11.a80ffeaf787fbd648123.jpg",
+    "static/media/img-6.jpg": "/firstTypeScriptApp/static/media/img-6.f3d7e17279c09fc277b5.jpg",
+    "static/media/footer-bg.jpg": "/firstTypeScriptApp/static/media/footer-bg.76a60a22ebe3675fa278.jpg",
+    "static/media/img-8.jpg": "/firstTypeScriptApp/static/media/img-8.7a4b8b7e662c9c2476f4.jpg",
+    "static/media/img-1.jpg": "/firstTypeScriptApp/static/media/img-1.424852fc7460e9491038.jpg",
+    "static/media/img-3.jpg": "/firstTypeScriptApp/static/media/img-3.e0b52d67b1731928bb51.jpg",
+    "static/media/pic-4.png": "/firstTypeScriptApp/static/media/pic-4.b9d9b2d2102a38f4a5cf.png",
+    "static/media/pic-1.png": "/firstTypeScriptApp/static/media/pic-1.b105fe43e8bf62808d9f.png",
+    "static/media/pic-2.png": "/firstTypeScriptApp/static/media/pic-2.5d5e42bfc8bc3622b556.png",
+    "static/media/pic-6.png": "/firstTypeScriptApp/static/media/pic-6.9cf72fe3946e3ea67a61.png",
+    "static/media/pic-5.png": "/firstTypeScriptApp/static/media/pic-5.09f3ea6305729de3884f.png",
+    "static/media/img-10.jpg": "/firstTypeScriptApp/static/media/img-10.ffb63e6f39af14e8c255.jpg",
+    "static/media/img-5.jpg": "/firstTypeScriptApp/static/media/img-5.400f73c70ba2084f88a7.jpg",
+    "static/media/pic-3.png": "/firstTypeScriptApp/static/media/pic-3.1ef1ecba9db4ad9c12c8.png",
+    "static/media/about-img.jpg": "/firstTypeScriptApp/static/media/about-img.619dca05766dbb3d8e6d.jpg",
+    "index.html": "/firstTypeScriptApp/index.html",
+    "main.956d4b1d.css.map": "/firstTypeScriptApp/static/css/main.956d4b1d.css.map",
+    "main.20d8f7ef.js.map": "/firstTypeScriptApp/static/js/main.20d8f7ef.js.map",
+    "787.a35bd745.chunk.js.map": "/firstTypeScriptApp/static/js/787.a35bd745.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.956d4b1d.css",
+    "static/js/main.20d8f7ef.js"
+  ]
+}
